@@ -1,6 +1,5 @@
 # MESA-Installation-Guide
 Complete MESA (Modules for Experiments in Stellar Astrophysics) installation guide for Linux with SDK setup
-Bilkul! Ye raha **poora content** jo aap directly copy-paste kar sakte ho GitHub par:
 
 ---
 
